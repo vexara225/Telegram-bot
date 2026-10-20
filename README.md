@@ -13,4 +13,3 @@ Celestia - Telegram-бот, созданный для игроков Genshin Imp
 - SQLite
 
 
-t.me/Celestiagenshinnn_bot
